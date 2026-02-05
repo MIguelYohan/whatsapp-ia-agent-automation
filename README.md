@@ -2,6 +2,8 @@
 
 Um chatbot inteligente para WhatsApp construído com n8n que usa IA para responder mensagens automaticamente. O bot registra conversas no Google Sheets e utiliza ferramentas de IA como Wikipedia e Calculadora para fornecer respostas úteis. Criado com fins didáticos para consolidar o aprendizado em automações usando a ferramenta n8n.
 
+<img width="795" height="275" alt="Captura de tela 2026-02-04 194824" src="https://github.com/user-attachments/assets/1edea13c-53f5-4271-b321-c102c5b9731b" />
+
 ## 📋 Visão Geral
 
 Este workflow n8n cria um assistente automatizado para WhatsApp que:
